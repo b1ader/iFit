@@ -1,16 +1,5 @@
-# googlelogin
+# iFit
 
-A new Flutter project.
+iFit was my graduation project for my software engineering bachelor degree where the main purpose of the project was to buld  a health monitoring application that creates a challenging environment motivating users to do more workout.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I learned during this project how to use many tools such as: Flutter framework/ NoSql/ Firebase/ interacting with google API's.
